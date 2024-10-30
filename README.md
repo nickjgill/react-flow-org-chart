@@ -18,7 +18,7 @@
 * Creates realistic-ish looking organizations with a CEO on the top, managers beneath, and teams of 1-7 people underneath them
 * Regenerates with new people every time you redraw / load
 * Uses [Faker](https://github.com/faker-js/faker) to generate names, titles, and profile images
-* Utilizes [React Flow](https://reactflow.dev/) and the [Dagre](https://github.com/dagrejs/dagre)
+* Utilizes [React Flow](https://reactflow.dev/) and the [Dagre](https://github.com/dagrejs/dagre) library for the tree layouts
 
 ## 🏃 Running the App
 `npm install` - Install the dependencies
